@@ -19,5 +19,10 @@ Snapshot of my open-source activity and most frequently used languages:
 
 ---
 
+### 🌆 My 3D Contribution Skyline
+
+![My 3D Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/3d-contrib/main/profile-3d-contrib/profileGreenImages/profile.svg)
+
+
 ### 🚀 Future Projects
 *planning future work in AI automation [and anything else which sparks an interest later :) ]*
