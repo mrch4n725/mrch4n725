@@ -15,7 +15,7 @@ Snapshot of my open-source activity and most frequently used languages:
 
 | My GitHub Stats | My Top Languages |
 | :-: | :-: |
-| ![Your Stats Card](https://github-readme-stats.vercel.app/api?username=mrch4n725&show_icons=true&theme=radial) | ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrch4n725&layout=compact&theme=radial) |
+| ![Your Stats Card](https://github-stats-extended.vercel.app/api?username=mrch4n725&show_icons=true&theme=radial) | ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrch4n725&layout=compact&theme=radial) |
 
 ---
 
