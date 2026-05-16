@@ -15,13 +15,13 @@ Snapshot of my open-source activity and most frequently used languages:
 
 | My GitHub Stats | My Top Languages |
 | :-: | :-: |
-| ![Your Stats Card](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radial) | ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radial) |
+| ![Your Stats Card](https://github-readme-stats.vercel.app/api?username=mrch4n725&show_icons=true&theme=radial) | ![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrch4n725&layout=compact&theme=radial) |
 
 ---
 
 ### 🌆 My 3D Contribution Skyline
 
-![My 3D Skyline](https://raw.githubusercontent.com/YOUR_USERNAME/3d-contrib/main/profile-3d-contrib/profileGreenImages/profile.svg)
+![My 3D Skyline](https://raw.githubusercontent.com/mrch4n725/3d-contrib/main/profile-3d-contrib/profileGreenImages/profile.svg)
 
 
 ### 🚀 Future Projects
