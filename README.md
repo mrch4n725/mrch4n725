@@ -1,6 +1,6 @@
 # Hi there, I'm mrch4n725! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+developer;Learning+Python+and+Git;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+developer+and+a+student;Learning+skills+and+Git;Welcome+to+my+profile!)
 
 ---
 
@@ -20,9 +20,7 @@ Snapshot of my open-source activity and most frequently used languages:
 ---
 
 ### 🌆 My 3D Contribution Skyline
-
-![My 3D Skyline](https://raw.githubusercontent.com/mrch4n725/3d-contrib/main/profile-3d-contrib/profileGreenImages/profile.svg)
-
+![My 3D Skyline](https://raw.githubusercontent.com/mrch4n725/3d-contrib/main/profile-3d-contrib/profile-night-rainbow.svg)
 
 ### 🚀 Future Projects
 *planning future work in AI automation [and anything else which sparks an interest later :) ]*
