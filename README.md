@@ -1,6 +1,6 @@
 # Hi there, I'm mrch4n725! 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there!+I'm+a+developer+and+a+student;Learning+skills+and+Git;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&color=FF007F&size=24&width=500&lines=Fulltime+student;Learning+Python+,+Git+etc.;Welcome+to+my+profile!)
 
 ---
 
