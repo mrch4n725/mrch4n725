@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=mrch4n725&color=7B8FCC" alt="Views" />
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=6373A4&size=19&width=550&lines=Full-time+student+Learning+Python+,+Git+and+more.;Welcome+to+my+profile!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&color=6373A4&size=19&width=650&lines=Full-time+student+|+Python+dev+|+Tech+enthusiast.;Welcome+to+my+profile!)
 
 
 
@@ -19,7 +19,7 @@ that solve real problems. Interested in open source long-term.
 ## Goals
 * Currently: Polish core Python + scripting daily tasks
 * Next: JavaScript, then wherever curiosity points
-* Goal: first open-source contribution by end of year
+* Github: first open-source contribution by end of year
 
 ---
 ## 📊 Insights
